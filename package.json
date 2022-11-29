@@ -1,0 +1,12 @@
+{
+  "name": "github-clickup-colab",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "NODE=test node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
